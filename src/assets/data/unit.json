@@ -1,0 +1,11 @@
+{
+  "id": 0,
+  "name": "Les bases",
+  "lessons": [
+    {
+      "name": "Les bases 1",
+      "icon": "",
+      "newWords": ["bonjour", "au revoir"]
+    }
+  ]
+}
